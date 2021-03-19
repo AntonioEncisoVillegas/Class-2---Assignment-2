@@ -1,0 +1,75 @@
+/*Global*/
+*{
+    margin:0%;
+}
+body{
+    font-family: 'bebas', sans-serif;
+}
+p{
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-top:1rem;
+}
+h2,h3{
+    margin:1 rem;
+}
+h2{
+    margin:0rem;
+    font-size: 3rem;
+    color: rgb(73, 73, 21);
+}
+h3{
+    font-size: 1.5rem;
+}
+
+/*Utilities*/
+.site-header{
+  background-image: url("pexels-photo-62693.jpeg");
+  
+    text-align: center;
+    height:40vh ;
+}
+.site-header p{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+.site-header h1{
+   padding-top: 2rem;
+   font: size  2.5rem;   
+}
+.container{
+  width: 80%;  
+  margin-right: auto;
+  margin-left: auto;
+  }
+  /* ICONS*/
+.fa-css3-alt{
+    font-size: 2rem;
+    color: rgba(10, 18, 43, 0.603);
+}
+  .fa-html5{
+
+    font-size: 2rem;
+    color: rgb(255, 81, 0);
+}
+.fa-js-square{
+    font-size: 2rem;
+    color: rgba(13, 19, 37, 0.651);
+}
+.fa-python
+{
+    font-size: 2rem;
+    color: orange;
+}
+.fa-map-marker-alt
+{
+    color: rgb(39, 66, 187);
+    image-orientation: 1deg;
+}
+
+{
+
+        background-image:"yo.jpg" ;
+        height: 30vh;
+    
+}
